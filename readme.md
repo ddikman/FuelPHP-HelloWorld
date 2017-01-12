@@ -10,3 +10,6 @@ Training project for using [FuelPHP](http://fuelphp.com/).
 docker-compose build
 docker-compose up -d web
 ```
+
+### Details learned
+In order to do the `oil create hello-world` to set up fuel I needed to install `zip` and `git` in the server container. Since the folder is mounted to the `/app` in the repository I only had to do this once in a temporary instance. Once I had set up the project I didn't have to redo it in the instance again meaning I didn't have to include `zip` and `git` in the actual docker image.
