@@ -1,4 +1,4 @@
-# FuelPHP-HelloWorld
+# FuelPHP-HelloWorld ⚠️ Not maintained.
 Training project for using [FuelPHP](http://fuelphp.com/).
 
 ## Setup
